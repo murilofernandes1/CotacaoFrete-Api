@@ -34,3 +34,4 @@ C:\Dev\CotacaoFreteApi\obj\Debug\net9.0\refint\CotacaoFreteApi.dll
 C:\Dev\CotacaoFreteApi\obj\Debug\net9.0\CotacaoFreteApi.pdb
 C:\Dev\CotacaoFreteApi\obj\Debug\net9.0\CotacaoFreteApi.genruntimeconfig.cache
 C:\Dev\CotacaoFreteApi\obj\Debug\net9.0\ref\CotacaoFreteApi.dll
+C:\Dev\CotacaoFreteApi\obj\Debug\net9.0\CotacaoFreteApi.sourcelink.json
