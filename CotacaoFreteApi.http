@@ -1,0 +1,6 @@
+@CotacaoFreteApi_HostAddress = http://localhost:5022
+
+GET {{CotacaoFreteApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
