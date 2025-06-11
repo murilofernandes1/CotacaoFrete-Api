@@ -14,6 +14,10 @@ app.UseSwaggerUI();
 app.UseAuthorization();
 app.MapControllers();
 
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+app.Urls.Clear();
+app.Urls.Add($"http://*:{port}");
+
 app.Run();
 
 //http://localhost:5022/swagger esse é o link para rodar a api no navegador
