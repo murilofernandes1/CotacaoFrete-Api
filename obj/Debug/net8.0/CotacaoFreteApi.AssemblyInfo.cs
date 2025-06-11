@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CotacaoFreteApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae18db8e1e553fab8df610da89f7a17f031eb7a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef5d70dca9e8134a7ac14331fc8e4b7ed05179af")]
 [assembly: System.Reflection.AssemblyProductAttribute("CotacaoFreteApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CotacaoFreteApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
