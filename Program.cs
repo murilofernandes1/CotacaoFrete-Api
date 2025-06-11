@@ -14,7 +14,7 @@ app.UseSwaggerUI();
 app.UseAuthorization();
 app.MapControllers();
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 app.Urls.Clear();
 app.Urls.Add($"http://*:{port}");
 
