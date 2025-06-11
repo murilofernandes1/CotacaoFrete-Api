@@ -20,4 +20,4 @@ app.Urls.Add($"http://*:{port}");
 
 app.Run();
 
-//http://localhost:5022/swagger esse é o link para rodar a api no navegador
+//https://cotacaofrete-api-1.onrender.com/swagger/index.html esse é o link para rodar a api no navegador
