@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u7EZZBEj3Yx1tEV/JFyi2LFflbFohoYzRdRbRvm6vc0=",
+  "Source": "CotacaoFreteApi",
+  "BasePath": "_content/CotacaoFreteApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

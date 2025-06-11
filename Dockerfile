@@ -13,5 +13,5 @@ WORKDIR /app
 COPY --from=build /app/out .
 
 
-EXPOSE 80
+EXPOSE 5000
 ENTRYPOINT ["dotnet", "CotacaoFrete.dll"]
