@@ -1,16 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "aLVQjb/33X4=",
+  "dgSpecHash": "XrWX0aclnuU=",
   "success": true,
   "projectFilePath": "C:\\Dev\\CotacaoFreteApi\\CotacaoFreteApi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\murig\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\murig\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.5\\microsoft.aspnetcore.openapi.8.0.5.nupkg.sha512",
     "C:\\Users\\murig\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\murig\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
     "C:\\Users\\murig\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.4\\swashbuckle.aspnetcore.8.1.4.nupkg.sha512",
     "C:\\Users\\murig\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.4\\swashbuckle.aspnetcore.swagger.8.1.4.nupkg.sha512",
     "C:\\Users\\murig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.4\\swashbuckle.aspnetcore.swaggergen.8.1.4.nupkg.sha512",
-    "C:\\Users\\murig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.4\\swashbuckle.aspnetcore.swaggerui.8.1.4.nupkg.sha512"
+    "C:\\Users\\murig\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.4\\swashbuckle.aspnetcore.swaggerui.8.1.4.nupkg.sha512",
+    "C:\\Users\\murig\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\murig\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\murig\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
+    "C:\\Users\\murig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
   ],
   "logs": []
 }
