@@ -1,0 +1,12 @@
+C:\Dev\CotacaoFreteApi\publish\CotacaoFreteApi.exe
+C:\Dev\CotacaoFreteApi\publish\appsettings.Development.json
+C:\Dev\CotacaoFreteApi\publish\appsettings.json
+C:\Dev\CotacaoFreteApi\publish\CotacaoFreteApi.dll
+C:\Dev\CotacaoFreteApi\publish\CotacaoFreteApi.deps.json
+C:\Dev\CotacaoFreteApi\publish\CotacaoFreteApi.runtimeconfig.json
+C:\Dev\CotacaoFreteApi\publish\CotacaoFreteApi.pdb
+C:\Dev\CotacaoFreteApi\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Dev\CotacaoFreteApi\publish\Microsoft.OpenApi.dll
+C:\Dev\CotacaoFreteApi\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\CotacaoFreteApi\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\CotacaoFreteApi\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
